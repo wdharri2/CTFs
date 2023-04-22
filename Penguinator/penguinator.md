@@ -7,6 +7,8 @@ Solves: 16
 Challenge Description:
 Penguinator, LLC is launching their ground-breaking eponymous web platform for military-grade image encryption next week and they need some beta-testers to kick the tires and make sure their MVP offering is solid.\n\nUnfortunately, a disgruntled Penguinator employee leaked the contents of an administrator's authentication token/cookie on a Dark Web hacking forum just last week:\n\n/SsLocjiwUwqJW7uuAaD2ufL2ok0RaOZTXokZ77E1rjtIqkQpTKGuvkE0s+8vC3qlpRciGEo4PnE0BuYMOGYtA==\n\nThe CSO is concerned and wants you to see if there's any way an outsider could exploit this token to gain administrative access to Penguinator's new web platform!
 
+penguinator.cha.hackpack.club
+
 ### Approach
 
 1)  The website hints to the fact that the Penguinator uses AES-256 which is a
