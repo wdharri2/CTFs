@@ -4,8 +4,16 @@ Category: web
 Points: 490
 Solves: 8
 
-Challenge Location:
-Mastershackle.cha.hackpack.club
+Challenge Description:
+Hello everyone, this is the Shackle Breaking Barrister!
+
+As I've covered in many of my MeTube videos, you'll know that MasterShackle locks are among the worst I've ever featured on my channel. Unfortunately, they've redesigned their website and are now calling it 'impregnable', and security level '11'.
+
+While I am very good at picking locks, I heard you are very good at hacking into websites, so I was hoping you could help me show that they are just as bad at web security as they are at physical security!
+
+As always, thanks for watching, and if you have any questions or comments, please feel free to reach out!
+
+mastershackle.cha.hackpack.club
 
 ### Approach
 
