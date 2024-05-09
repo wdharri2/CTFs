@@ -1,1 +1,1 @@
-# CTFs
+# Capture The Flag Writeups
